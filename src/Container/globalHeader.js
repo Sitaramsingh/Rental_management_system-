@@ -52,7 +52,7 @@ export default function GlobalHeader(props) {
   return (
         <div>
             <Header title={dashboardViewName.RENTALMANAMENTSYSTEM}>
-              <Dropdown value='Select location' catalogData={handleLocationData(catalogData)} handleCategory={handleCategory} handleNavigation={handleCategoryNavigation}/>
+              <Dropdown value={dashboardViewName.SELECTLOCATION} catalogData={handleLocationData(catalogData)} handleCategory={handleCategory} handleNavigation={handleCategoryNavigation}/>
             </Header>
         </div>
     );

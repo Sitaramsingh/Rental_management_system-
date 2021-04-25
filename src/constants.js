@@ -42,7 +42,8 @@ export const dashboardViewName = {
     WELCOMESEONDHALF:' RENTAL MANAGEMENT SYSTEM',
     SELECTLOCATION:'Please select location',
     BANNERMANAGEMENT: 'Banner Management',
-    EQUIPMENTCATALOG:'Equipment Catalog'
+    EQUIPMENTCATALOG:'Equipment Catalog',
+    SELECTLOCATION: 'Select location'
 }
 
 
