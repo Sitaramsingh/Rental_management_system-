@@ -1,0 +1,20 @@
+.dashboard{
+    background-color: #ffff;
+}
+.flexContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 16%;
+    padding: 10px;
+    min-height: 80vh;
+}
+.card {
+    flex: 0 1 23%;
+    box-sizing: border-box;
+    margin: 1.25rem .25em;
+}
+.labelClass{
+    color: black;
+    margin-top: 5px;
+    margin-left: 30px;
+}

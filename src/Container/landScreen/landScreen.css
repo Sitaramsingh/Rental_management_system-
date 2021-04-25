@@ -1,0 +1,12 @@
+.dashboardContainer{
+    color: black;
+    display: flex;
+    height: 100%;
+    min-height: 80vh;
+}
+.dashboardContainer div{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
